@@ -1,0 +1,13 @@
+
+																									
+Hi everyone, This project is about file uploader system on web. 
+The user is asked to chose is file format he wants to upload - PDF, JPEG or PNG.
+
+-The program isgenerating random sizes of files - each kind of file a has different size ranges.
+-The program is generating random names of files. 
+-User has one attempt to upload his file.
+-Any other input provided by the user, whether it's numbers or strings
+that are not the belong to the menu numbers - will cause the user to exit the program.
+This project demonstrate the good practice of file type and also buffer integer limit in the case of uploading a file.
+
+All rights reserved to AMIR SILLAM - 2021
